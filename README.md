@@ -19,5 +19,7 @@ For each problem below include your code in the report as well as answering the 
 3. Simple random walk
 
 (a) Generate (D1,...,D1000) where the Dis are as described above and store this sequence in the vector D.
+
 (b) Use the command cumsum() to generate (X0,X1,...,X1000) and store this sequence in the vector X.
+
 (c) Plot your random walk.
